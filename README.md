@@ -1,4 +1,4 @@
-Welcome to the Dashboard-UI-Test repository! Dashboard-UI-Test is a visually stunning website built using React.js, TypeScript, Redux and CSS. The project is a front-end development endeavor and can be found on [GitHub]().
+Welcome to the Dashboard-UI-Test repository! Dashboard-UI-Test is a visually stunning website built using React.js, TypeScript, Redux and CSS. The project is a front-end development endeavor and can be found on [GitHub](https://github.com/Itsme-Aneek/dashboard-ui.git).
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ To get started, you can simply clone this repository and install the dependencie
 To clone the repository, you will need to have git installed on your machine. Once you have those, you can use the following commands:
 
 ```bash
-git clone 
+git clone https://github.com/Itsme-Aneek/dashboard-ui.git
 ```
 
 ### Running the Project
